@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&family=Montserrat&display=swap');
+footer{
+    height: 20vh;
+    background-color: rgba(189, 189, 189, 0.218);
+}
+h1{
+    padding-top: 40px;
+    margin-left: 120px;
+    font-family: 'Alkatra', cursive;
+    font-size: 2rem;
+}
+
+.fend{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
